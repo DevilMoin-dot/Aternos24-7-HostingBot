@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Leben-Jufd.aternos.me",
-    "port": 43972,
+    "ip": "MoinSpace.aternos.me",
+    "port": 28845,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -65,7 +65,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
